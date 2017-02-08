@@ -1,2 +1,2 @@
 # TodoList
-Todo List using HTM, CSS and jQuery.
+Todo List using HTML, CSS and jQuery.
